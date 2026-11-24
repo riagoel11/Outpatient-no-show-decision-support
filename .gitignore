@@ -1,0 +1,13 @@
+# Data files are not redistributed - see data/README.md
+data/*
+!data/README.md
+
+# R artefacts
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+
+# OS
+.DS_Store
+Thumbs.db
